@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ILoveDogs</string>
+
+    <string name="retry">Try again</string>
+    <string name="loading_failed">Failed to download dog\'s breed list</string>
+</resources>
